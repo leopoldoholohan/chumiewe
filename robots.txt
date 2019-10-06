@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iequuzeid.sinnerschrader.hiv/sitemap.xml
